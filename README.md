@@ -7,7 +7,7 @@ Buildpack for the free MaxMind GeoLite2 database packages.
 Add the buildpack:
 
 ```
-heroku buildpacks:add https://github.com/physiovia/heroku-buildpack-maxmind-geolite2
+heroku buildpacks:add https://github.com/global-step/heroku-buildpack-maxmind-geolite2
 ```
 
 Decide which package (City or Country) you need and set up your environment accordingly:
